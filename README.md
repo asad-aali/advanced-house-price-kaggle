@@ -1,6 +1,6 @@
 # Advanced Regression - House Prices
 
-This is my code for an in-class competition at UT Austin. The goal was to take part in the following Kaggle competition and comptete on the public leaderboard to get the best possible score.
+This is my code for an in-class competition at UT Austin. The goal was to take part in the following Kaggle competition and compete on the public leaderboard to get the best possible score.
 
 [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard?)
 
